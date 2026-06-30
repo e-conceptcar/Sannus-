@@ -50,7 +50,7 @@
     <span class="icon">📍</span>
     <span class="label">Endereço:</span><br />
     <a href="https://www.google.com/maps/search/?api=1&query=Rua+Anton+Philips,+186,+Guarulhos,+SP" target="_blank">
-      Rua Anton Philips, 186 - Prédio B - Vila Hermínia, Guarulhos - SP, 07030
+      Rua Anton Philips, 186 - Prédio B - Vila Hermínia, Guarulhos - SP, 07030-010.
     </a>
   </p>
   <p class="info">
