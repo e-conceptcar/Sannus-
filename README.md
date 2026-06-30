@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Contato - E-conceptcar</title>
+  <title>Contato - Sannus Estética Automotiva</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -40,7 +40,7 @@
 </head>
 <body>
   <h1>📇 Contato</h1>
-  <p class="info"><span class="label">🏢 Empresa:</span> Sannus Estétira Automotiva</p>
+  <p class="info"><span class="label">🏢 Empresa:</span> Sannus Estética Automotiva</p>
   <p class="info">
     <span class="icon">📞</span>
     <span class="label">Telefone / WhatsApp:</span>
