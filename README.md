@@ -40,16 +40,11 @@
 </head>
 <body>
   <h1>📇 Contato</h1>
-  <p class="info"><span class="label">🏢 Empresa:</span> E-conceptcar</p>
+  <p class="info"><span class="label">🏢 Empresa:</span> Sannus Estétira Automotiva</p>
   <p class="info">
     <span class="icon">📞</span>
     <span class="label">Telefone / WhatsApp:</span>
-    <a href="https://wa.me/5511958881194" target="_blank">+55 11 95888-1194</a>
-  </p>
-  <p class="info">
-    <span class="icon">✉️</span>
-    <span class="label">E-mail:</span>
-    <a href="mailto:e-conceptcar@outlook.com">e-conceptcar@outlook.com</a>
+    <a href="https://wa.me/5511958881194" target="_blank">+55 (11) 99806-2961</a>
   </p>
   <p class="info">
     <span class="icon">📍</span>
@@ -66,12 +61,12 @@
   <p class="info">
     <span class="icon">🛠️</span>
     <span class="label">Serviços realizados:</span><br />
-    Reforma de Rodas
+   Higienização, Lavagem, Micro retoque, Polimento de carro e farol.
   </p>
   <p class="info">
     <span class="icon">📸</span>
     <span class="label">Instagram:</span><br />
-    <a href="https://www.instagram.com/e_conceptcar?igsh=dHp0MHczYW53aGdh" target="_blank">@e_conceptcar</a>
+    <a href="https://www.instagram.com/sannus_esteticar?igsh=YWNoMDExNzNhMzd1" target="_blank">@sannus_esteticar</a>
   </p>
 </body>
 </html>
